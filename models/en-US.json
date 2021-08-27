@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "My Radio",
+      "invocationName": "my radio",
       "intents": [
         {
           "name": "PlayAudio",
